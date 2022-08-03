@@ -9,12 +9,18 @@
     \/_______/\/_/         \/__/\/______/ \/_______/ \/__/   \/__/
 
 ```
+<!--
+
 Tutorial:
-<!-- https://victorscholz.medium.com/hosting-a-json-api-on-github-pages-47b402f72603
+ https://victorscholz.medium.com/hosting-a-json-api-on-github-pages-47b402f72603
 
 Fake data generator
 https://omatsuri.app/fake-data-generator
- -->
+
+Superhero JSON
+https://akabab.github.io/superhero-api/api/
+
+-->
 <!--
 **dragontheory/dragontheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
