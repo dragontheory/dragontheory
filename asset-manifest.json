@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/dragontheory/static/css/main.639ed267.css",
+    "main.js": "/dragontheory/static/js/main.37070fc4.js",
+    "static/js/9.f6143d8d.chunk.js": "/dragontheory/static/js/9.f6143d8d.chunk.js",
+    "static/media/cover-8-dark.jpg": "/dragontheory/static/media/cover-8-dark.6a4615d90bc4c22206b0.jpg",
+    "static/media/cover-8.jpg": "/dragontheory/static/media/cover-8.6a4615d90bc4c22206b0.jpg",
+    "static/media/fa-solid-900.ttf": "/dragontheory/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/cover-7-dark.jpg": "/dragontheory/static/media/cover-7-dark.3b2c6a43830bea43aa7e.jpg",
+    "static/media/cover-7.jpg": "/dragontheory/static/media/cover-7.3b2c6a43830bea43aa7e.jpg",
+    "static/media/cover-2-dark.jpg": "/dragontheory/static/media/cover-2-dark.c63e4eb4947ec0bb1a04.jpg",
+    "static/media/cover-2.jpg": "/dragontheory/static/media/cover-2.c63e4eb4947ec0bb1a04.jpg",
+    "static/media/cover-4-dark.jpg": "/dragontheory/static/media/cover-4-dark.80b649e0500db7e64ca3.jpg",
+    "static/media/cover-4.jpg": "/dragontheory/static/media/cover-4.80b649e0500db7e64ca3.jpg",
+    "static/media/cover-9-dark.jpg": "/dragontheory/static/media/cover-9-dark.ddd555898de33adae21f.jpg",
+    "static/media/cover-9.jpg": "/dragontheory/static/media/cover-9.ddd555898de33adae21f.jpg",
+    "static/media/cover-5-dark.jpg": "/dragontheory/static/media/cover-5-dark.1e3ad74e5c511c961c93.jpg",
+    "static/media/cover-5.jpg": "/dragontheory/static/media/cover-5.1e3ad74e5c511c961c93.jpg",
+    "static/media/cover-3-dark.jpg": "/dragontheory/static/media/cover-3-dark.770b8271f30a3e07bc53.jpg",
+    "static/media/cover-3.jpg": "/dragontheory/static/media/cover-3.770b8271f30a3e07bc53.jpg",
+    "static/media/fa-brands-400.ttf": "/dragontheory/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/cover-6-dark.jpg": "/dragontheory/static/media/cover-6-dark.babb7d439406ccb13abe.jpg",
+    "static/media/cover-6.jpg": "/dragontheory/static/media/cover-6.babb7d439406ccb13abe.jpg",
+    "static/media/bootstrap-icons.woff?": "/dragontheory/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/dragontheory/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/bootstrap-icons.woff2?": "/dragontheory/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/dragontheory/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/cover-dark.jpg": "/dragontheory/static/media/cover-dark.35f28b34bffdce5b6f9f.jpg",
+    "static/media/cover.jpg": "/dragontheory/static/media/cover.35f28b34bffdce5b6f9f.jpg",
+    "static/media/fa-regular-400.ttf": "/dragontheory/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/dragontheory/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/dragontheory/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/dragontheory/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/dragontheory/index.html",
+    "main.639ed267.css.map": "/dragontheory/static/css/main.639ed267.css.map",
+    "main.37070fc4.js.map": "/dragontheory/static/js/main.37070fc4.js.map",
+    "9.f6143d8d.chunk.js.map": "/dragontheory/static/js/9.f6143d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639ed267.css",
+    "static/js/main.37070fc4.js"
+  ]
+}
