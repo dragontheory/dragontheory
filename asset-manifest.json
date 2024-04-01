@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dragontheory/static/css/main.639ed267.css",
-    "main.js": "/dragontheory/static/js/main.37070fc4.js",
+    "main.js": "/dragontheory/static/js/main.c318d4e4.js",
     "static/js/9.f6143d8d.chunk.js": "/dragontheory/static/js/9.f6143d8d.chunk.js",
     "static/media/cover-8-dark.jpg": "/dragontheory/static/media/cover-8-dark.6a4615d90bc4c22206b0.jpg",
     "static/media/cover-8.jpg": "/dragontheory/static/media/cover-8.6a4615d90bc4c22206b0.jpg",
@@ -33,11 +33,11 @@
     "static/media/fa-v4compatibility.woff2": "/dragontheory/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/dragontheory/index.html",
     "main.639ed267.css.map": "/dragontheory/static/css/main.639ed267.css.map",
-    "main.37070fc4.js.map": "/dragontheory/static/js/main.37070fc4.js.map",
+    "main.c318d4e4.js.map": "/dragontheory/static/js/main.c318d4e4.js.map",
     "9.f6143d8d.chunk.js.map": "/dragontheory/static/js/9.f6143d8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.639ed267.css",
-    "static/js/main.37070fc4.js"
+    "static/js/main.c318d4e4.js"
   ]
 }
