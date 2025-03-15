@@ -7,6 +7,7 @@
    \ \________/\__/ \/_____/\__\/\_______/ \________/ \__\  \ \__\   \ \________/ \__\
     \/_______/\/_/         \/__/\/______/ \/_______/ \/__/   \/__/    \/_______/ \/__/
 ```
+<h3 align="center"><sub>&#8224;</sub>&#160;&#8224;&#160;<sub>&#8224;</sub></h3>
 
 <!--
 **dragontheory/dragontheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
